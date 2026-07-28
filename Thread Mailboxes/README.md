@@ -85,4 +85,4 @@ For every worker thread, the program reports:
     <li>Results collected through mailbox-based message passing.</li>
 </ul>
 
-The project demonstrates core operating system concepts including thread synchronization, semaphore-based communication, producer-consumer coordination, and concurrent programming with POSIX threads.
+The project demonstrates core operating system concepts, including thread synchronization, semaphore-based communication, producer-consumer coordination, and concurrent programming with POSIX threads.
