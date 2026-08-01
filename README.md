@@ -3,7 +3,7 @@
 Contains Operating System related projects involving Processes, Threads, Synchronization, CPU scheduling, Memory Management, Input/Output operations, Interrupts, and File Systems
 <h1>Projects</h1>
 
-<b>Thread Mailboxes</b>
+[<b>Thread Mailboxes</b>](https://github.com/Alexander-Hardro/Operating-Systems/tree/main/Thread%20Mailboxes)
 
 
 
